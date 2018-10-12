@@ -10,4 +10,4 @@
 
 -------------
 
-![screenshot](https://github.com/jcsilverio/2DSelfDrivingCar/blob/master/2Dcar_screenshot.png "Screenshot")
+![screenshot](https://github.com/jcsilverio/2D_selfDrivingCar/blob/master/2Dcar_screenshot.png "Screenshot")
