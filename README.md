@@ -2,7 +2,7 @@
 
 -------------
 
-|Deep Q- Learning |
+|Deep Q-Learning |
 |--- | 
 |Reinforcement Learning with PyTorch 
 |Prioritized Experience Replay with Neural Networks
